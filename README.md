@@ -91,16 +91,17 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
 ```
 HR-Analytics-Dashboard/
-|
+│
 ├── README.md
 ├── .gitignore
 ├── requirement.txt
 ├── HR Analytics Dashboard.pdf
-|
+│
 ├── Dashboard/               # Power BI dashboard file
-       └── HR_Analytics_dashboard.pbix
+│       └── HR_Analytics_dashboard.pbix
 ```
 
 ---
