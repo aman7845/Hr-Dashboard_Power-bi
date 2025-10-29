@@ -37,7 +37,7 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ---
 
-<h2><a class="anchor" id="">dashboard-preview</a>Dashboard Preview</h2>
+<h2><a class="anchor" id="dashboard-preview"></a>Dashboard Preview</h2>
   
 > ![HR Analytics Dashboard](https://github.com/aman7845/Hr-Dashboard_Power-bi/blob/main/Hr_dashboard_powerbi.png?raw=true)
 
@@ -90,7 +90,7 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ---
 
-<h2><a class="anchor" id="">insights-summary</a>Insight Summary</h2>
+<h2><a class="anchor" id="insights-summary"></a>Insight Summary</h2>
 - The highest attrition is observed among employees aged **26–35 years**, particularly in **technical and sales roles**.  
 - Employees with **lower salary ranges** and **shorter tenure** show a greater tendency to leave.  
 - **Job satisfaction** and **career growth opportunities** emerge as critical factors in retention.  
@@ -98,7 +98,7 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ---
 
-<h2><a class="anchor" id="">key-learnings</a>Key Learning</h2>
+<h2><a class="anchor" id="key-learnings"></a>Key Learning</h2>
 - Gained experience in developing interactive dashboards using **Power BI**.  
 - Improved understanding of HR metrics and workforce analytics.  
 - Learned to identify and communicate actionable insights through visual storytelling.  
