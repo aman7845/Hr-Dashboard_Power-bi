@@ -10,6 +10,7 @@ _Help an Organization to improve employee performance and improve improve retent
 - <a href="#data-source">Data Source</a>
 - <a href="#dashboard-preview">Dashboard Preview</a>
 - <a href="#dashboard-analysis-questions">Dashboard Analysis Questions</a>
+- <a href="#project-structure">Project Structure</a>
 - <a href="#insights-summary">Insights Summary</a>
 - <a href="#key-learnings">Key Learnings</a>
 
@@ -89,7 +90,20 @@ The dashboard offers a visual summary of trends and helps management create targ
 </details>
 
 ---
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+```
+HR-Analytics-Dashboard/
+|
+├── README.md
+├── .gitignore
+├── requirement.txt
+├── HR Analytics Dashboard.pdf
+|
+├── Dashboard/               # Power BI dashboard file
+       └── HR_Analytics_dashboard.pbix
+```
 
+---
 <h2><a class="anchor" id="insights-summary"></a>Insight Summary</h2>
 - The highest attrition is observed among employees aged **26–35 years**, particularly in **technical and sales roles**.  
 - Employees with **lower salary ranges** and **shorter tenure** show a greater tendency to leave.  
