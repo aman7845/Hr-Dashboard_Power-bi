@@ -25,7 +25,7 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ##  Dashboard Preview
   
-> `![HR Analytics Dashboard](C:\Users\aman7\Downloads\Hr_dashboard_powerbi)`
+> `![HR Analytics Dashboard](Hr_dashboard_powerbi.png)`
 
 ---
 
