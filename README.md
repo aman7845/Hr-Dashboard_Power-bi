@@ -91,7 +91,7 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Integrate predictive analytics to forecast attrition risk.  
 - Add filters for real-time department-level analysis.  
 - Automate data refresh using Power BI service for continuous updates.  
