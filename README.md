@@ -43,7 +43,7 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ---
 
-<h2><a class="anchor" id="">dashboard-analysis-questions</a>Dashboard Analysis Question</h2>
+<h2><a class="anchor" id="dashboard-analysis-questions"></a>Dashboard Analysis Question</h2>
 
 <details>
 <summary> Click to view all 20 analytical questions</summary>
