@@ -2,6 +2,8 @@
 
 _Help an Organization to improve employee performance and improve improve retention(reduce retention)_
 
+---
+
 ##  Overview
 The **HR Analytics Dashboard** provides a comprehensive view of workforce data to identify patterns and factors contributing to employee attrition.  
 Developed using **Power BI** and **Excel**, this project helps Human Resource teams make informed, data-driven decisions to improve retention, satisfaction, and workforce stability.
