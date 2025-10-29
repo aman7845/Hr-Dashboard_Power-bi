@@ -3,37 +3,47 @@
 _Help an Organization to improve employee performance and improve improve retention(reduce retention)_
 
 ---
+##  Table of Contents
+- <a href="#Overview">Overview</a>
+- <a href="#Objective">Objective</a>
+- <a href="#tools-used">Tools Used</a>
+- <a href="#data-source">Data Source</a>
+- <a href="#dashboard-preview">Dashboard Preview</a>
+- <a href="#dashboard-analysis-questions">Dashboard Analysis Questions</a>
+- <a href="#insights-summary">Insights Summary</a>
+- <a href="#key-learnings">Key Learnings</a>
 
-##  Overview
+---
+<h2><a class="anchor" id="overview"></a>Overview</h2>
 The **HR Analytics Dashboard** provides a comprehensive view of workforce data to identify patterns and factors contributing to employee attrition.  
 Developed using **Power BI** and **Excel**, this project helps Human Resource teams make informed, data-driven decisions to improve retention, satisfaction, and workforce stability.
 
 ---
 
-##  Objective
+<h2><a class="anchor" id="objective"></a>Objective</h2>
 The main objective of this project is to analyze employee demographics, job roles, salary bands, and satisfaction levels to determine the key drivers of attrition within the company.  
 The dashboard offers a visual summary of trends and helps management create targeted strategies for employee engagement and retention.
 
 ---
 
-##  Tools Used
+<h2><a class="anchor" id="tools-used"></a>Tools Used</h2>
 - **Power BI** – for dashboard creation and data visualization  
 - **Excel** – for data cleaning and preprocessing  
 
 ---
 
-##  Data Source
+<h2><a class="anchor" id="data-source"></a>Data Source</h2>
 - **Company HR Data** (internal dataset)  
 
 ---
 
-##  Dashboard Preview
+<h2><a class="anchor" id="">dashboard-preview</a>Dashboard Preview</h2>
   
 > ![HR Analytics Dashboard](https://github.com/aman7845/Hr-Dashboard_Power-bi/blob/main/Hr_dashboard_powerbi.png?raw=true)
 
 ---
 
-##  Dashboard Analysis Questions
+<h2><a class="anchor" id="">dashboard-analysis-questions</a>Dashboard Analysis Question</h2>
 
 <details>
 <summary> Click to view all 20 analytical questions</summary>
@@ -80,7 +90,7 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ---
 
-##  Insights Summary
+<h2><a class="anchor" id="">insights-summary</a>Insight Summary</h2>
 - The highest attrition is observed among employees aged **26–35 years**, particularly in **technical and sales roles**.  
 - Employees with **lower salary ranges** and **shorter tenure** show a greater tendency to leave.  
 - **Job satisfaction** and **career growth opportunities** emerge as critical factors in retention.  
@@ -88,16 +98,11 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ---
 
-##  Key Learnings
+<h2><a class="anchor" id="">key-learnings</a>Key Learning</h2>
 - Gained experience in developing interactive dashboards using **Power BI**.  
 - Improved understanding of HR metrics and workforce analytics.  
 - Learned to identify and communicate actionable insights through visual storytelling.  
 
----
-
-##  Future Improvements
-- Integrate predictive analytics to forecast attrition risk.  
-- Add filters for real-time department-level analysis.  
-- Automate data refresh using Power BI service for continuous updates.  
+  
 
 ---
