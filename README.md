@@ -25,7 +25,7 @@ The dashboard offers a visual summary of trends and helps management create targ
 
 ##  Dashboard Preview
   
-> `![HR Analytics Dashboard](https://github.com/aman7845/Hr-Dashboard_Power-bi/blob/main/Hr_dashboard_powerbi.png?raw=true)`
+> ![HR Analytics Dashboard](https://github.com/aman7845/Hr-Dashboard_Power-bi/blob/main/Hr_dashboard_powerbi.png?raw=true)
 
 ---
 
